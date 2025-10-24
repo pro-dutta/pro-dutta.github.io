@@ -28,14 +28,14 @@ author:
   pronouns         : "all pronouns"  
   bio              : "A queer economist"
   location         : "New York, NY, USA"
-  employer         : "Graduate Center, The City University of New York"
+  employer         : "Graduate Center, CUNY"
   uri              : # URL
   email            : "pdutta@gradcenter.cuny.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=v4xql6AAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-7903-1369"
