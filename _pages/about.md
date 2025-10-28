@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-(images/Grindr_meme.png){: .align-right width="300px"}
+![Combining vision and language modes](images/Grindr_meme1.png){: .align-right width="300px"}
 
 🙋I am a PhD candidate of Economics at CUNY's Graduate Center.
 
