@@ -1,6 +1,6 @@
 # Pro's academic page
 
- ![Queer economist meme](/images/Grindr_meme1.png | width="300"){align-right} 
+ ![Queer economist meme](/images/Grindr_meme1.png){:. align-right size="300px"} 
 
 <!--img align="right" size="300" src="images/Grindr_meme1.png"-->
 
