@@ -1,6 +1,6 @@
 # Pro's academic page
 
-![Queer economist meme](/images/Grindr_meme1){:.align-right width="300px"}
+![Queer economist meme](/images/Grindr_meme1.png){:.align-right width="300px"}
 
 🙋I am a PhD candidate of Economics at CUNY's Graduate Center.
 
