@@ -1,3 +1,5 @@
+geometry: left=38mm, right=25mm, top=25mm, bottom=25mm
+
 # Pro's academic page
 
 img style="float: right;" src="images/Grindr_meme1.png"
