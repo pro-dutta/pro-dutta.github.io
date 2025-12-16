@@ -1,6 +1,8 @@
 # Pro's academic page
 
- ![Queer economist meme](/images/Grindr_meme1.png){:. align="right" size="300px"} 
+<img src="https://github.com/pro-dutta/pro-dutta.github.io/blob/90fd333b20101c5888ec91ee2736bae904dd29c6/images/Grindr_meme1.png" style="width:50%; height:auto;" />
+
+<!-- ![Queer economist meme](/images/Grindr_meme1.png){:. align="right" size="300px"} -->
 
 <!--img align="right" size="300" src="images/Grindr_meme1.png"-->
 
